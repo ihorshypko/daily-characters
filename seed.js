@@ -1,0 +1,1 @@
+window.SEED="+seed_text+";
